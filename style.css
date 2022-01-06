@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+.half h1,h2{
+    font-size: 40px;
+}
+
+.highlighter{
+    color: tomato;
+}
+.first-part{
+    display: flex;
+}
+.half{
+    margin-left: 5%;
+    padding-left: 5%;
+    width: 40%;
+}
+#img-size{
+    width: 70%;
+}
+#slice{
+    border-left: 4px solid rgb(149, 95, 75);
+    border-image-slice: 1;
+    padding-left: 10px;
+}
+.link-button{
+    text-decoration: 0;
+    color:black;
+    background: linear-gradient(45deg ,coral ,tomato);
+    font-weight: 700;
+    padding:5px 10px;
+    border-radius: 10px;
+}
+
+.second-part h1{
+    font-size: 70px;
+    text-align: center;
+    color: rgb(10, 10, 46);
+}
+.blog{
+    width: 28%;
+    margin: 4%;
+    padding: 4%;
+}
+.image-size{
+    width: 35%;
+}
+
+
+#mission{
+    background-color: burlywood;
+    background-size:20%;
+    
+}
+#display{
+    display: flx;
+}
